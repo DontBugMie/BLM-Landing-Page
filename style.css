@@ -1,0 +1,18 @@
+canvas {
+    background: transparent;
+    width:100vw;
+    height:100vh;
+    z-index: 1;
+    position: absolute;
+}
+
+.box {
+    
+    background-size: cover;
+    z-index: -1;
+    width:100vw;
+    height: 100vh;
+    top:0;
+}
+
+/* https://codepen.io/progrape/pen/XXBwWe */
